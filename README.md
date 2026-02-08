@@ -1,4 +1,4 @@
-# sdda_project
+# Software Design and Architecture (SDA) Project
 
 A new Flutter project.
 
